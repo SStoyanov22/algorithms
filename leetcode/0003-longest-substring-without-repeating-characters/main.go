@@ -13,20 +13,13 @@ func lengthOfLongestSubstring(s string) int {
 				currentMax = current
 			}
 			startIndex = lastIndex + 1
-			current = i - lastIndex
+			current = i - startIndex
 		}
 		indexMap[s[i]] = i
 		current++
 	}
 
 	return max(currentMax, current)
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
 }
 
 func main() {
