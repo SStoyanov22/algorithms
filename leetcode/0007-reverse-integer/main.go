@@ -1,6 +1,9 @@
 package main
 
-import "math"
+import (
+	"fmt"
+	"math"
+)
 
 func reverse(x int) int {
 	result := 0
@@ -22,4 +25,9 @@ func reverse(x int) int {
 	}
 
 	return result
+}
+
+func main() {
+	result := reverse(1534236469)
+	fmt.Println("The reversed number is : ", result)
 }
