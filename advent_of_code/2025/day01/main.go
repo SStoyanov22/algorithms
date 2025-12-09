@@ -19,35 +19,87 @@ func part1(input string) int {
 	rotations := strings.Split(input, "\n")
 	dialPos := 50
 	zeroCount := 0
-	rotate := func(d byte, r int) {
-		if d == 'L' {
-			dialPos -= r
-		} else {
-			dialPos += r
-		}
-
-		dialPos = dialPos % 100
-	}
 
 	for _, value := range rotations {
 		if len(value) == 0 {
 			continue
 		}
 		direction := value[0]
-		rotationCount, err := strconv.Atoi(value[1:])
-		if err == nil {
-			rotate(direction, rotationCount)
-			if dialPos == 0 {
-				zeroCount++
+		rotationCount, _ := strconv.Atoi(value[1:])
+		if direction == 'L' {
+			// Moving dial position counter-clockwise
+			dialPos -= rotationCount
+			if dialPos < 0 {
+				dialPos = 100 + dialPos
 			}
+		} else {
+			// Moving dial position clockwise
+			dialPos += rotationCount
+			if dialPos > 99 {
+				dialPos = dialPos - 100
+			}
+		}
+		// Check if we dial is on 0
+		if dialPos == 0 {
+			zeroCount++
 		}
 	}
 	return zeroCount
 }
 
 func part2(input string) int {
-	// TODO: Implement part 2
-	return 0
+	rotations := strings.Split(input, "\n")
+	dialPos := 50
+	zeroClicks := 0
+
+	for _, value := range rotations {
+		if len(value) == 0 {
+			continue
+		}
+		direction := value[0]
+		rotationCount, _ := strconv.Atoi(value[1:])
+		// Calculate how many times we cross or land on 0
+		if direction == 'L' {
+			// Moving counter-clockwise (decreasing position)
+			if dialPos == 0 {
+				// Starting at 0, count how many complete cycles back to 0
+				zeroClicks += rotationCount / 100
+			} else {
+				// Count times we cross 0
+				// Distance to reach 0 going left: dialPos steps
+				if rotationCount >= dialPos {
+					remaining := rotationCount - dialPos
+					// We crossed 0 once, plus every 100 steps after
+					zeroClicks += 1 + (remaining / 100)
+				}
+			}
+
+			// Update position
+			dialPos = (dialPos - rotationCount) % 100
+			if dialPos < 0 {
+				dialPos += 100
+			}
+		} else {
+			// Moving clockwise (increasing position)
+			if dialPos == 0 {
+				// Starting at 0, count how many complete cycles back to 0
+				zeroClicks += rotationCount / 100
+			} else {
+				// Count times we cross 0
+				// Distance to 0 going right: (100 - dialPos)
+				distanceTo0 := 100 - dialPos
+				if rotationCount >= distanceTo0 {
+					remaining := rotationCount - distanceTo0
+					// We crossed 0 once, plus every 100 steps after
+					zeroClicks += 1 + (remaining / 100)
+				}
+			}
+
+			// Update position
+			dialPos = (dialPos + rotationCount) % 100
+		}
+	}
+	return zeroClicks
 }
 
 func main() {
@@ -75,7 +127,8 @@ func main() {
 			log.Printf("Failed to submit Part 1: %v", err)
 		} else {
 			fmt.Printf("Part 1 result: %s\n", resp.Message)
-			if !resp.Correct {
+			// Only return if wrong answer, not if already completed
+			if !resp.Correct && !strings.Contains(resp.Message, "Already completed") {
 				return
 			}
 		}

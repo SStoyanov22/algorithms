@@ -31,6 +31,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"strings"
 
 	"github.com/SStoyanov22/algorithms/advent_of_code/aocutil"
 )
@@ -75,7 +76,8 @@ func main() {
 			log.Printf("Failed to submit Part 1: %v", err)
 		} else {
 			fmt.Printf("Part 1 result: %s\n", resp.Message)
-			if !resp.Correct {
+			// Only return if wrong answer, not if already completed
+			if !resp.Correct && !strings.Contains(resp.Message, "Already completed") {
 				return
 			}
 		}
@@ -109,6 +111,16 @@ func TestPart1Example(t *testing.T) {
 	input := ""
 	expected := 0
 	result := part1(input)
+
+	if result != expected {
+		t.Errorf("Expected %d, got %d", expected, result)
+	}
+}
+
+func TestPart2Example(t *testing.T) {
+	input := ""
+	expected := 0
+	result := part2(input)
 
 	if result != expected {
 		t.Errorf("Expected %d, got %d", expected, result)
