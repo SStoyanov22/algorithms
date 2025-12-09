@@ -4,6 +4,8 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"strconv"
+	"strings"
 
 	"github.com/SStoyanov22/algorithms/advent_of_code/aocutil"
 )
@@ -14,8 +16,33 @@ const (
 )
 
 func part1(input string) int {
-	// TODO: Implement part 1
-	return 0
+	rotations := strings.Split(input, "\n")
+	dialPos := 50
+	zeroCount := 0
+	rotate := func(d byte, r int) {
+		if d == 'L' {
+			dialPos -= r
+		} else {
+			dialPos += r
+		}
+
+		dialPos = dialPos % 100
+	}
+
+	for _, value := range rotations {
+		if len(value) == 0 {
+			continue
+		}
+		direction := value[0]
+		rotationCount, err := strconv.Atoi(value[1:])
+		if err == nil {
+			rotate(direction, rotationCount)
+			if dialPos == 0 {
+				zeroCount++
+			}
+		}
+	}
+	return zeroCount
 }
 
 func part2(input string) int {
