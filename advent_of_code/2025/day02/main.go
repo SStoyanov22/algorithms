@@ -52,7 +52,7 @@ func hasEqualParts(id int, split int) bool {
 
 		// Check if all parts are equal
 		remaining := id
-		for i := 0; i < split; i++ {
+		for range split {
 			part := remaining % divisor
 			if part != firstPart {
 				return false
@@ -84,7 +84,7 @@ func part1(input string) int {
 func part2(input string) int {
 	idRanges := parseRanges(input)
 	sum := 0
-	splits := []int{2, 3, 4, 5}
+	splits := []int{2, 3, 4, 5, 6, 7, 8, 9, 10}
 	for _, idRange := range idRanges {
 		for id := idRange.Start; id <= idRange.End; id++ {
 			for _, split := range splits {
