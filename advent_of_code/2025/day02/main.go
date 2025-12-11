@@ -4,6 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"math"
+	"strconv"
+	"strings"
 
 	"github.com/SStoyanov22/algorithms/advent_of_code/aocutil"
 )
@@ -13,14 +16,87 @@ const (
 	day  = 2
 )
 
+type IdRange struct {
+	Start int
+	End   int
+}
+
+func parseRanges(input string) []IdRange {
+	var idRanges []IdRange
+	for _, rangeStr := range strings.Split(input, ",") {
+		rangeStr = strings.TrimSpace(rangeStr)
+		parts := strings.Split(rangeStr, "-")
+		if len(parts) == 2 {
+			start, _ := strconv.Atoi(parts[0])
+			end, _ := strconv.Atoi(parts[1])
+			idRanges = append(idRanges, IdRange{Start: start, End: end})
+		}
+	}
+	return idRanges
+}
+
+func hasEqualParts(id int, split int) bool {
+	digitCount := len(strconv.Itoa(id))
+	if digitCount%split == 0 {
+
+		// Check if the number can be evenly split
+		if digitCount%split != 0 {
+			return false
+		}
+
+		// Calculate divisor for extracting parts (10^partSize)
+		divisor := int(math.Pow(10, float64(digitCount/split)))
+
+		// Extract the first part (rightmost part)
+		firstPart := id % divisor
+
+		// Check if all parts are equal
+		remaining := id
+		for i := 0; i < split; i++ {
+			part := remaining % divisor
+			if part != firstPart {
+				return false
+			}
+			remaining /= divisor
+		}
+
+		return true
+	}
+
+	return false
+
+}
+
 func part1(input string) int {
-	// TODO: Implement part 1
-	return 0
+	idRanges := parseRanges(input)
+	sum := 0
+	for _, idRange := range idRanges {
+		for id := idRange.Start; id <= idRange.End; id++ {
+			if hasEqualParts(id, 2) {
+				sum += id
+			}
+		}
+	}
+
+	return sum
 }
 
 func part2(input string) int {
-	// TODO: Implement part 2
-	return 0
+	idRanges := parseRanges(input)
+	sum := 0
+	splits := []int{2, 3, 4, 5}
+	for _, idRange := range idRanges {
+		for id := idRange.Start; id <= idRange.End; id++ {
+			for _, split := range splits {
+				if hasEqualParts(id, split) {
+					sum += id
+					break
+				}
+			}
+		}
+	}
+
+	return sum
 }
 
 func main() {
@@ -48,7 +124,8 @@ func main() {
 			log.Printf("Failed to submit Part 1: %v", err)
 		} else {
 			fmt.Printf("Part 1 result: %s\n", resp.Message)
-			if !resp.Correct {
+			// Only return if incorrect (not if already completed)
+			if !resp.Correct && !strings.Contains(resp.Message, "Already completed") {
 				return
 			}
 		}
