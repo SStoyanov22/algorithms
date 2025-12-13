@@ -98,9 +98,9 @@ func main() {
 }
 EOF
 
-# Replace placeholders
-sed -i "s/YEAR_PLACEHOLDER/$YEAR/g" "$DAY_DIR/main.go"
-sed -i "s/DAY_PLACEHOLDER/$DAY/g" "$DAY_DIR/main.go"
+# Replace placeholders (macOS compatible)
+sed -i '' "s/YEAR_PLACEHOLDER/$YEAR/g" "$DAY_DIR/main.go"
+sed -i '' "s/DAY_PLACEHOLDER/$DAY/g" "$DAY_DIR/main.go"
 
 cat > "$DAY_DIR/main_test.go" << 'EOF'
 package main
