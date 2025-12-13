@@ -4,6 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"math"
 	"strings"
 
 	"github.com/SStoyanov22/algorithms/advent_of_code/aocutil"
@@ -14,14 +15,52 @@ const (
 	day  = 3
 )
 
+func getHighestBatteryJoltage(startIndex int, endIndex int, input string) (int, int) {
+	maxValue := int(input[startIndex] - '0')
+	maxIndex := int(startIndex)
+	for i := startIndex + 1; i <= endIndex; i++ {
+		currentValue := int(input[i] - '0') // Convert ASCII digit to int
+		if currentValue > maxValue {
+			maxValue = currentValue
+			maxIndex = i
+		}
+	}
+
+	return maxValue, maxIndex
+}
+
+func getHighestBankJoltage(bank string, size int) int {
+	joltage := 0
+	startIndex := 0
+	endIndex := len(bank) - size
+	for i := range size {
+		value, index := getHighestBatteryJoltage(startIndex, endIndex, bank)
+		startIndex = index + 1
+		endIndex = len(bank) - size + i + 1
+		joltage += int(math.Pow(10, float64(size-i-1))) * value
+	}
+
+	return joltage
+}
+
 func part1(input string) int {
-	// TODO: Implement part 1
-	return 0
+	size := 2
+	totalJoltage := 0
+	banks := strings.Split(strings.Trim(input, "\n"), "\n")
+	for _, bank := range banks {
+		totalJoltage += getHighestBankJoltage(bank, size)
+	}
+	return totalJoltage
 }
 
 func part2(input string) int {
-	// TODO: Implement part 2
-	return 0
+	size := 12
+	totalJoltage := 0
+	banks := strings.Split(strings.Trim(input, "\n"), "\n")
+	for _, bank := range banks {
+		totalJoltage += getHighestBankJoltage(bank, size)
+	}
+	return totalJoltage
 }
 
 func main() {
