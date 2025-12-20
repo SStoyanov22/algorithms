@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/bin/Debug/net10.0/0011-container-wtih-most-water
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/bin/Debug/net10.0/0011-container-wtih-most-water.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/bin/Debug/net10.0/0011-container-wtih-most-water.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/bin/Debug/net10.0/0011-container-wtih-most-water.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/bin/Debug/net10.0/0011-container-wtih-most-water.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/refint/0011-container-wtih-most-water.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/0011-container-wtih-most-water.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0011-container-wtih-most-water/obj/Debug/net10.0/ref/0011-container-wtih-most-water.dll

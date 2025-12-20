@@ -5,6 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/leetcode/0011-container-wtih-most-water/bin/Debug/net10.0/0011-container-wtih-most-water.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/leetcode/0011-container-wtih-most-water",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
             "name": "Launch Package",
             "type": "go",
             "request": "launch",
