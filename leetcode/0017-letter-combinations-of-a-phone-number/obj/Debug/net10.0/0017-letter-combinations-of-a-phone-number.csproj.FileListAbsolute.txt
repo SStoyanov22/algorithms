@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/bin/Debug/net10.0/0017-letter-combinations-of-a-phone-number
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/bin/Debug/net10.0/0017-letter-combinations-of-a-phone-number.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/bin/Debug/net10.0/0017-letter-combinations-of-a-phone-number.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/bin/Debug/net10.0/0017-letter-combinations-of-a-phone-number.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/bin/Debug/net10.0/0017-letter-combinations-of-a-phone-number.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/refint/0017-letter-combinations-of-a-phone-number.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/0017-letter-combinations-of-a-phone-number.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0017-letter-combinations-of-a-phone-number/obj/Debug/net10.0/ref/0017-letter-combinations-of-a-phone-number.dll

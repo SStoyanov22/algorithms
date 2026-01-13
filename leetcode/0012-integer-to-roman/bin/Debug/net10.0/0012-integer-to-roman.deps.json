@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "0012-integer-to-roman/1.0.0": {
+        "runtime": {
+          "0012-integer-to-roman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0012-integer-to-roman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

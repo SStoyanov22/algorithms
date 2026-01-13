@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/leetcode/0011-container-wtih-most-water/0011-container-wtih-most-water.csproj",
+                "${fileDirname}",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],

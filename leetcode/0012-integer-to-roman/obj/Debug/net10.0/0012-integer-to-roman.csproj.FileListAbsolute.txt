@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/bin/Debug/net10.0/0012-integer-to-roman
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/bin/Debug/net10.0/0012-integer-to-roman.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/bin/Debug/net10.0/0012-integer-to-roman.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/bin/Debug/net10.0/0012-integer-to-roman.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/bin/Debug/net10.0/0012-integer-to-roman.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/refint/0012-integer-to-roman.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/0012-integer-to-roman.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0012-integer-to-roman/obj/Debug/net10.0/ref/0012-integer-to-roman.dll

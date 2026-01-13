@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/bin/Debug/net10.0/0015-3sum
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/bin/Debug/net10.0/0015-3sum.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/bin/Debug/net10.0/0015-3sum.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/bin/Debug/net10.0/0015-3sum.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/bin/Debug/net10.0/0015-3sum.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/refint/0015-3sum.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/0015-3sum.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0015-3sum/obj/Debug/net10.0/ref/0015-3sum.dll

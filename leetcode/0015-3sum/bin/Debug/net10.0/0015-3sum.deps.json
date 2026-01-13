@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "0015-3sum/1.0.0": {
+        "runtime": {
+          "0015-3sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0015-3sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
