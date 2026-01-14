@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/bin/Debug/net10.0/0020-valid-parentheses
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/bin/Debug/net10.0/0020-valid-parentheses.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/bin/Debug/net10.0/0020-valid-parentheses.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/bin/Debug/net10.0/0020-valid-parentheses.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/bin/Debug/net10.0/0020-valid-parentheses.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/refint/0020-valid-parentheses.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/0020-valid-parentheses.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0020-valid-parentheses/obj/Debug/net10.0/ref/0020-valid-parentheses.dll
