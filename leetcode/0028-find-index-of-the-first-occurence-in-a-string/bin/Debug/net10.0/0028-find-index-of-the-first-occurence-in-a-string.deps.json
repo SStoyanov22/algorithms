@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "0028-find-index-of-the-first-occurence-in-a-string/1.0.0": {
+        "runtime": {
+          "0028-find-index-of-the-first-occurence-in-a-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0028-find-index-of-the-first-occurence-in-a-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

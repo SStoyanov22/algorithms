@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/bin/Debug/net10.0/0024-swap-nodes-in-pairs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/bin/Debug/net10.0/0024-swap-nodes-in-pairs.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/bin/Debug/net10.0/0024-swap-nodes-in-pairs.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/bin/Debug/net10.0/0024-swap-nodes-in-pairs.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/bin/Debug/net10.0/0024-swap-nodes-in-pairs.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/refint/0024-swap-nodes-in-pairs.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/0024-swap-nodes-in-pairs.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0024-swap-nodes-in-pairs/obj/Debug/net10.0/ref/0024-swap-nodes-in-pairs.dll

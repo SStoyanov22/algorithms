@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/bin/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/bin/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/bin/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/bin/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/bin/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/refint/0028-find-index-of-the-first-occurence-in-a-string.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/0028-find-index-of-the-first-occurence-in-a-string.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0028-find-index-of-the-first-occurence-in-a-string/obj/Debug/net10.0/ref/0028-find-index-of-the-first-occurence-in-a-string.dll

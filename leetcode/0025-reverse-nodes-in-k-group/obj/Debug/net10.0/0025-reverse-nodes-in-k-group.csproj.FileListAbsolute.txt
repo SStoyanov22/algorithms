@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/bin/Debug/net10.0/0025-reverse-nodes-in-k-group
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/bin/Debug/net10.0/0025-reverse-nodes-in-k-group.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/bin/Debug/net10.0/0025-reverse-nodes-in-k-group.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/bin/Debug/net10.0/0025-reverse-nodes-in-k-group.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/bin/Debug/net10.0/0025-reverse-nodes-in-k-group.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/refint/0025-reverse-nodes-in-k-group.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/0025-reverse-nodes-in-k-group.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0025-reverse-nodes-in-k-group/obj/Debug/net10.0/ref/0025-reverse-nodes-in-k-group.dll

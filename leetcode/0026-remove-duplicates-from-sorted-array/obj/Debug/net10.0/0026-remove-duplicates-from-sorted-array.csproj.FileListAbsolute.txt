@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/bin/Debug/net10.0/0026-remove-duplicates-from-sorted-array
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/bin/Debug/net10.0/0026-remove-duplicates-from-sorted-array.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/bin/Debug/net10.0/0026-remove-duplicates-from-sorted-array.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/bin/Debug/net10.0/0026-remove-duplicates-from-sorted-array.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/bin/Debug/net10.0/0026-remove-duplicates-from-sorted-array.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/refint/0026-remove-duplicates-from-sorted-array.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/0026-remove-duplicates-from-sorted-array.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0026-remove-duplicates-from-sorted-array/obj/Debug/net10.0/ref/0026-remove-duplicates-from-sorted-array.dll

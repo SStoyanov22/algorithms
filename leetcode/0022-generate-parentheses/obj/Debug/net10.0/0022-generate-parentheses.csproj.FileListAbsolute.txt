@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/bin/Debug/net10.0/0022-generate-parentheses
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/bin/Debug/net10.0/0022-generate-parentheses.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/bin/Debug/net10.0/0022-generate-parentheses.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/bin/Debug/net10.0/0022-generate-parentheses.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/bin/Debug/net10.0/0022-generate-parentheses.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/refint/0022-generate-parentheses.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/0022-generate-parentheses.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0022-generate-parentheses/obj/Debug/net10.0/ref/0022-generate-parentheses.dll
