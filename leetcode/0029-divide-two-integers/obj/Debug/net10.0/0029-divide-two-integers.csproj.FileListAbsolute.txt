@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/bin/Debug/net10.0/0029-divide-two-integers
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/bin/Debug/net10.0/0029-divide-two-integers.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/bin/Debug/net10.0/0029-divide-two-integers.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/bin/Debug/net10.0/0029-divide-two-integers.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/bin/Debug/net10.0/0029-divide-two-integers.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/refint/0029-divide-two-integers.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/0029-divide-two-integers.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0029-divide-two-integers/obj/Debug/net10.0/ref/0029-divide-two-integers.dll

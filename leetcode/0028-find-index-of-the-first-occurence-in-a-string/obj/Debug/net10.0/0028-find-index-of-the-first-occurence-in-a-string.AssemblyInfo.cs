@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("0028-find-index-of-the-first-occurence-in-a-string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef52bec8d2c6f6b02e9d5f7ef15eccde8ccd5b4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3247cc92d08fd76a44f539ad8777dc8a4cdcfe20")]
 [assembly: System.Reflection.AssemblyProductAttribute("0028-find-index-of-the-first-occurence-in-a-string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("0028-find-index-of-the-first-occurence-in-a-string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

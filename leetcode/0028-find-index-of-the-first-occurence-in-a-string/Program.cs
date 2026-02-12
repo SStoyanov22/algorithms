@@ -75,25 +75,21 @@ public class Solution
 {
     public int StrStr(string haystack, string needle)
     {
-        // TODO: Implement the solution
-        // Hint: You can use built-in string functions or implement manual search
-        // For each position in haystack, check if needle matches starting from that position
-        if( needle.Length > haystack.Length)
-            return -1;
-        
-        
-        for(int i = 0; i < haystack.Length; i++)
-        {
-            bool isFound = true;
+        if(needle.Length == 0) return 0;
 
-            for(int j = 0; j < needle.Length; j++)
-            {
-                if(haystack[i] != needle[j])
-                {
-                    isFound = false;
-                    break;
-                }
+        for(int i = 0; i  <= haystack.Length - needle.Length; i++)
+        {
+            int j = 0;
+
+            while(j<needle.Length && haystack[i+j] == needle[j]){
+                j++;
+            }
+
+            if(j == needle.Length){
+                return i;
             }
         }
+
+        return -1;
     }
 }

@@ -1,0 +1,15 @@
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/bin/Debug/net10.0/0030-substring-with-concatenation-of-all-words
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/bin/Debug/net10.0/0030-substring-with-concatenation-of-all-words.deps.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/bin/Debug/net10.0/0030-substring-with-concatenation-of-all-words.runtimeconfig.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/bin/Debug/net10.0/0030-substring-with-concatenation-of-all-words.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/bin/Debug/net10.0/0030-substring-with-concatenation-of-all-words.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.AssemblyInfoInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.AssemblyInfo.cs
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.csproj.CoreCompileInputs.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.sourcelink.json
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/refint/0030-substring-with-concatenation-of-all-words.dll
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.pdb
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/0030-substring-with-concatenation-of-all-words.genruntimeconfig.cache
+/Users/user/src/github.com/SStoyanov22/algorithms/leetcode/0030-substring-with-concatenation-of-all-words/obj/Debug/net10.0/ref/0030-substring-with-concatenation-of-all-words.dll

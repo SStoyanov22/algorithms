@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "0030-substring-with-concatenation-of-all-words/1.0.0": {
+        "runtime": {
+          "0030-substring-with-concatenation-of-all-words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0030-substring-with-concatenation-of-all-words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
