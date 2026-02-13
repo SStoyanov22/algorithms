@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Users\\\\s.stoyanov\\\\source\\\\repos\\\\github.com\\\\SStoyanov22\\\\algorithms\\\\package.json\")",
+      "Bash(del \"c:\\\\Users\\\\s.stoyanov\\\\source\\\\repos\\\\github.com\\\\SStoyanov22\\\\algorithms\\\\tsconfig.json\")",
+      "Bash(npm install:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\s.stoyanov\\source\\repos\\github.com\\SStoyanov22\\algorithms"
+    ]
+  }
+}

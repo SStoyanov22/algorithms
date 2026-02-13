@@ -21,6 +21,15 @@
             "request": "launch",
             "mode": "auto",
             "program": "${fileDirname}"
+        },
+        {
+            "name": "Run TypeScript (tsx)",
+            "type": "node",
+            "request": "launch",
+            "runtimeExecutable": "${workspaceFolder}/leetcode/typescript/node_modules/.bin/tsx",
+            "args": ["${file}"],
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal"
         }
     ]
 }
