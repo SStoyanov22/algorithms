@@ -1,0 +1,14 @@
+{
+  "name": "leetcode-typescript",
+  "version": "1.0.0",
+  "description": "LeetCode solutions in TypeScript",
+  "scripts": {
+    "solve": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "type": "commonjs"
+}

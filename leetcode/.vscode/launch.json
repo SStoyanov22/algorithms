@@ -9,6 +9,28 @@
             "program": "${fileDirname}",
             "env": {},
             "args": []
+        },
+        {
+            "name": "Run TS Solution",
+            "type": "node",
+            "request": "launch",
+            "runtimeArgs": ["-r", "ts-node/register"],
+            "args": ["${file}"],
+            "cwd": "${workspaceFolder}/typescript",
+            "console": "integratedTerminal",
+            "skipFiles": ["<node_internals>/**"]
+        },
+        {
+            "name": "Debug TS Solution",
+            "type": "node",
+            "request": "launch",
+            "runtimeArgs": ["-r", "ts-node/register"],
+            "args": ["${file}"],
+            "cwd": "${workspaceFolder}/typescript",
+            "console": "integratedTerminal",
+            "sourceMaps": true,
+            "skipFiles": ["<node_internals>/**"],
+            "stopOnEntry": false
         }
     ]
 }
